@@ -1,0 +1,60 @@
+{
+  "lastDonationsUpdate": "2026-08-13T14:33:33.540Z",
+  "deletedIds": [
+    "7f72db50-66ae-4be7-a828-84ca69d3ef3e",
+    "5d97450c-f7ec-4e1f-b0fb-5db70b537d5e",
+    "539e0cfc-248a-4b03-a153-55311bf273e0",
+    "5dd7ea09-f2d8-477a-afa5-2397db7bd41c",
+    "2264a522-b069-4712-9bf9-8f8f14f8fe54",
+    "784ff398-68c7-4182-b6f2-bc25fbceb983",
+    "8f1a7bbb-5aef-4e75-9412-1b00b75127eb",
+    "d72bd1b0-2662-432e-b65c-71f37edcf36a"
+  ],
+  "config": {
+    "id": "default",
+    "nome_campanha": "Campanha Luz e Esperança",
+    "nome_igreja": "SÃO PAULO APÓSTOLO",
+    "meta_total": 59000,
+    "quantidade_paineis": 48,
+    "potencia_painel": 610,
+    "economia_mensal_total": 4178,
+    "valor_kwh": 1.16,
+    "imagem_igreja": "default-vector",
+    "admin_emails": [
+      "www.ceolin@gmail.com",
+      "jair.rodrigon@gmail.com"
+    ],
+    "painel_grid_cols": 10,
+    "painel_grid_rows": 4,
+    "painel_roof_top_percent": 26,
+    "painel_roof_left_percent": 16,
+    "painel_roof_width_percent": 68,
+    "painel_roof_height_percent": 46,
+    "painel_roof_perspective_tilt": 10,
+    "updated_at": "2026-08-12T18:05:30.258+00:00"
+  },
+  "donations": [
+    {
+      "id": "a923c355-8b43-4b7e-9cbf-a04367f11b51",
+      "valor": 200,
+      "doador": "Pedro",
+      "nome_real": "Pedro Henrique",
+      "telefone": "11254258488",
+      "descricao": "",
+      "status": "aberto",
+      "created_at": "2026-08-13T14:29:54.326+00:00",
+      "updated_at": "2026-08-13T14:29:52.73648+00:00"
+    },
+    {
+      "id": "914d9623-c7cd-4689-9f76-86587a07f73e",
+      "valor": 575,
+      "doador": "Jair Rodrigues",
+      "nome_real": "Nome Editado Com Sucesso",
+      "telefone": "(11) 91111-2222",
+      "descricao": "Testando edição de doação",
+      "status": "aberto",
+      "created_at": "2026-08-13T14:28:35.546+00:00",
+      "updated_at": "2026-08-13T14:33:33.54+00:00"
+    }
+  ]
+}
